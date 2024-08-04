@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/834246947.svg)](https://zenodo.org/doi/10.5281/zenodo.13213172)
+
 # PDAC-plasma-data
 This repository contains **supplementary data** for the article:
 ### Artificial Neural Network Detection of Pancreatic Cancer from 1H MR Spectral Patterns of Plasma Metabolites
